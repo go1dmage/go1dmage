@@ -18,7 +18,6 @@
 </a>
 </p>
 
-<h3 align="center">languages and tools:</h3>
 <p align="center">
   <a href="https://www.blender.org/">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
